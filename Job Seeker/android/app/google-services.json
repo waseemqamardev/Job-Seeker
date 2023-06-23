@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "78332412333",
+    "project_id": "job-seekers-fb364",
+    "storage_bucket": "job-seekers-fb364.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78332412333:android:a7dea94d1487ee7bfea124",
+        "android_client_info": {
+          "package_name": "com.example.soltridge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78332412333-k3kak4mubs7qqt9b586csrejhbre7cb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfn-ZGOvyK53hyZGEfAJk5wmzEAfX_IcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78332412333-k3kak4mubs7qqt9b586csrejhbre7cb2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
